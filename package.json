@@ -1,0 +1,30 @@
+{
+  "name": "gamestore",
+  "version": "1.0.0",
+  "description": "restful api express mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yoga0107/gamestore.git"
+  },
+  "keywords": [
+    "rest",
+    "express",
+    "mongodb"
+  ],
+  "author": "yoga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoga0107/gamestore/issues"
+  },
+  "homepage": "https://github.com/Yoga0107/gamestore#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.8",
+    "mongoose": "^5.13.2"
+  }
+}
